@@ -12,9 +12,9 @@
 
 ## 所用知识
 >* `vue全家桶`
->* 'axios'
->* less
->* better-scroll
+>* `axios`
+>* `less`
+>* `better-scroll`
 
 ## 运行
 >* `npm install`
